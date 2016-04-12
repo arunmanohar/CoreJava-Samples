@@ -30,7 +30,7 @@
 
 11. Search for all the appearances of string in a paragraph and display the count
 
-12. Find out the wovels in a string, display their positions and the respective wovel
+12. Find out the vowels in a string, display their positions and the respective wovel
 
 Ex: programming
 o - 2
